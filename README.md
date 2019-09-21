@@ -1,5 +1,5 @@
 # MedicalAppointmentsNoShow
-![Medical Appointment](doctor-appointment.jpg)
+<img src="/doctor-appointment.jpg" alt="Doctor Appointment" width="150" height="150" />
 Predicting No Show for Medical Appointments <br>
 Based on information of patient we predict whether patient will show up or medical appointment or not<br>
 Model used: Multinomial Naive Bayes Classifier<br>
